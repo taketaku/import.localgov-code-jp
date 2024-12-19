@@ -1,0 +1,8 @@
+[package]
+name = "localgov-code-jp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+calamine = "0.26.1"
+rusqlite = "0.32.1"
